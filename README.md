@@ -1,5 +1,7 @@
 # Cheap Hackintosh - Erying M-ATX Core i7 11800H + RX 550 4Gb (LEXA)
 
+![About This Mac](https://github.com/luchina-gabriel/EFI-ERYING-INTERPOSER-Core-i7-11800H-RX550-FAKEID-PUBLIC/assets/23700365/0e17777c-0900-4dc9-a219-457a71a8d1e8)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.2.1)
